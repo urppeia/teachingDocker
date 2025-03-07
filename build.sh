@@ -1,1 +1,1 @@
-docker build . --tag biodocker
+docker build . --tag biodocker1
